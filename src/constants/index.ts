@@ -1,0 +1,13 @@
+export const ALLOT_WATER = 'ALLOT_WATER'
+export const ADD_GUESTS = 'ADD_GUESTS'
+export const BILL = 'BILL'
+export const DELIMITER_CHAR = ' '
+export const INPUT_SPILT_CHAR = '\n'
+export const WATER_ALLOCATED_PER_PERSON = 10
+export const TANKER_FIRST_SLAB_WATER_AMOUNT = 500
+export const TANKER_FIRST_SLAB_WATER_COST = 2
+export const TANKER_SECOND_SLAB_WATER_AMOUNT = 1500
+export const TANKER_SECOND_SLAB_WATER_COST = 3
+export const TANKER_THIRD_SLAB_WATER_AMOUNT = 3000
+export const TANKER_THIRD_SLAB_WATER_COST = 5
+export const TANKER_FOURTH_SLAB_WATER_COST = 8
